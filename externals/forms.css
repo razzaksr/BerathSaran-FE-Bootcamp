@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    height: 100vh;
+    justify-content: space-evenly;
+    align-items: center;
+}
+form{
+    padding: 45px 45px 45px 45px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px grey;
+}
+.main img{
+    height: 30%;
+}
+.my-row{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    border-radius: 10px;
+}
+.my-row input{
+    margin: 5px 5px 5px 5px;
+}
+.single{
+    display: flex;
+    justify-content: space-between;
+}
+.single input{
+    width: 82%
+}
+.single select{
+    width: 83%;
+    border-radius: 10px;
+}
+.single .sec{
+    display: flex;
+    width: 83%;
+}
+.moving:hover{
+    background-color: black;
+    color: green;
+}
+.moving{
+    background-color: yellow; columns: green;
+}

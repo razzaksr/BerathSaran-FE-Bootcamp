@@ -1,0 +1,52 @@
+Web application:
+Front end	>> Presentation logic
+Back end	>> Business logic
+Data end	>> Data logic
+
+Web sites:
+	static	>> content wont change often
+	dynamic	>> content often change based on logged user, location, time
+	eg: Zomato, flip kart, gmail,....
+
+
+
+Bootcamp:
+phase 1:
+	html, css, bs, js	>> building and hosting
+phase 2:
+	react with bootstrap	>> building and hosting
+phase 3:
+	react with MUI		>> building and hosting
+phase 4:
+	react with firebase	>> building and hosting
+
+Tools:
+VS CODE, Live server
+
+
+Phase 1:
+html elements:
+<element attribute="">body</element>
+text components:
+	p, headings, b, i, u
+list components:
+	ul, ol, 
+grouping:
+	div, section
+media:
+	audio, video, img
+form:
+	input, form, button
+navigation:
+	a, nav 
+self closing:
+	br, hr, img, source, input, link
+
+
+CSS:
+margins
+border
+shadow
+backgrounds
+padding
+alignment: horizontal, vertical
