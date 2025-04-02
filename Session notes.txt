@@ -50,3 +50,35 @@ shadow
 backgrounds
 padding
 alignment: horizontal, vertical
+
+
+Bootstrap:
+twitter
+better look and feel
+embedded with html
+mobile first approach/ responsiveness
+12 columns
+
+CSS Framework:
+	inbuilt style class's are available and ready to use
+
+Setup:
+	1. download bootstrap css
+	2. include cdn link in your web page
+
+Bootstrap Components:
+colors: text colors, background colors>> primary, info, dark, light, warning, success, secondary, danger
+text: display-1, display-6
+alignments: horizontal, vertical
+break points: xs, sm, md, lg, xl>> col, m, p
+slides
+cards
+flex
+navigation
+tables
+bootstrap forms
+alert box
+icons
+
+
+Phase 1: use case Students bootcamp registration UI design using Bootstrap
